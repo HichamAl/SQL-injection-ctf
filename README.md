@@ -7,6 +7,6 @@ To run the ctf you need to follow these steps:
 
 2. open up a terminal.
 
-3. run this command: docker-compose build. The docker image is now built you can start up docker and navigate to images or you can follow the next step.
+3. run this command: docker-compose build. The docker image is now built you can start up docker and navigate to images and start the ctf from there or you can follow the next step.
 
 4. docker-compose up. and then navigate to: http://localhost:8000
