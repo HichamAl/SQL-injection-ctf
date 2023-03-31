@@ -1,0 +1,76 @@
+/* Set background color to black and text color to green */
+body {
+    background-color: black;
+    color: #00ff00;
+    font-family: monospace;
+  }
+
+h1 {
+    font-size: 40px;
+}
+  
+  /* Add a background image of a circuit board and adjust background size */
+  body:before {
+    content: "";
+    background-image: url("https://images.unsplash.com/photo-1518779578993-ec3579fee39c");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+  }
+  
+  /* Style the table to look like a terminal */
+  table {
+    border-collapse: collapse;
+    margin: 20px;
+    font-family: monospace;
+  }
+  
+  /* Set the color of the table header and cells */
+  th {
+    background-color: #00ff00;
+    color: black;
+    padding: 10px;
+  }
+  
+  td {
+    background-color: black;
+    color: #00ff00;
+    padding: 10px;
+    border: 1px solid #00ff00;
+  }
+  
+  /* Style the form */
+  form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    background-color: black;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    padding: 10px;
+  }
+  
+  button[type="submit"] {
+    background-color: #00ff00;
+    color: black;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: black;
+    color: #00ff00;
+  }

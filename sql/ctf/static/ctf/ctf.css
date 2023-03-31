@@ -1,0 +1,62 @@
+/* Set background color to black and text color to green */
+body {
+    background-color: black;
+    color: #00ff00;
+  }
+  
+  /* Add a background image of a circuit board and adjust background size */
+  body:before {
+    content: "";
+    background-image: url("https://images.unsplash.com/photo-1518779578993-ec3579fee39c");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+  }
+  
+  /* Style the form */
+  form.sql {
+    margin: 20px;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Style the form inputs and labels */
+  form.sql label {
+    margin-bottom: 10px;
+  }
+  
+  form.sql input[type="text"],
+  form.sql input[type="password"] {
+    background-color: black;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  form.sql input[type="submit"] {
+    background-color: #00ff00;
+    color: black;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  form.sql input[type="submit"]:hover {
+    background-color: black;
+    color: #00ff00;
+  }
+  
+  /* Style the SQL injection message */
+  h2.sql {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }

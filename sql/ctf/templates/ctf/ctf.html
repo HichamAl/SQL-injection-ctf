@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="{% static 'ctf/ctf.css' %}">
+<title>SECRET SERVER</title>
+</head>
+<body>
+<h2 class="sql">LOGIN</h2>
+        <form class="sql" method="post">
+            {% csrf_token %}
+            <label>Username:</label><br>
+            <input type="text" name="username"><br>
+            <label>Password:</label><br>
+            <input type="password" name="password"><br><br>
+            <input class="sqlbutton" type="submit">
+          </form> 
+          {% if error_message %}
+            <p class="error">{{ error_message }}</p>
+           {% endif %}
+    </body>
+</html>
