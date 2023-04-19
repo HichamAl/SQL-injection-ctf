@@ -3,7 +3,7 @@ this is a sql injection ctf made in django.
 
 To run the ctf you need to follow these steps:
 
-1. clone this git repository.
+1. clone this git repository. (you can use: VSCODE)
 
 2. open up a terminal.
 
