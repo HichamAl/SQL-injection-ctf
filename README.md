@@ -10,7 +10,6 @@ click on code then on HTTPS, and copy the address.
 <img width="462" alt="Screenshot 2023-04-24 at 19 28 42" src="https://user-images.githubusercontent.com/104017860/234072120-5f28983d-7b6d-4241-9f24-c072fd3137e8.png">
 
 Go to VSCODE paste the address in the bar that appears after you select clone this repository and click enter. 
-on enter.
 <img width="740" alt="Screenshot 2023-04-24 at 19 31 15" src="https://user-images.githubusercontent.com/104017860/234072630-d09b690e-071e-41fb-a2f9-9205dcaf68e5.png">
 
 next you need to select a location to clone the repository to, navigate to Desktop.
@@ -21,8 +20,6 @@ click new folder, and give the new folder a name.
 
 then click select as repository destination.
 <img width="256" alt="Screenshot 2023-04-24 at 19 33 54" src="https://user-images.githubusercontent.com/104017860/234073675-5de087bc-6177-454b-8cfc-cacf982f0ee3.png">
-
-
 
 2. open up a terminal.
 
