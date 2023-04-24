@@ -27,9 +27,10 @@ next you will get a notifaction, click on open.
 <img width="834" alt="Screenshot 2023-04-24 at 19 40 30" src="https://user-images.githubusercontent.com/104017860/234074450-be2934b6-090f-47ec-8cc4-8003a48699d9.png">
 
 
-3. navigate to sql folder with this command: cd sql.
+3. type the following command in the terminal: cd sql
 
-4. start docker up.
+4. start docker up. 
+<img width="127" alt="Screenshot 2023-04-24 at 19 42 56" src="https://user-images.githubusercontent.com/104017860/234075096-a26b3b67-ca12-46df-b0fd-581511ba7201.png">
 
 5. run this command: docker-compose build. The docker image is now built you need to restart docker, navigate to images and start the ctf from there or you can follow the next step.
 
