@@ -18,11 +18,14 @@ then click select as repository destination.
 <img width="790" alt="Screenshot 2023-04-24 at 19 33 33" src="https://user-images.githubusercontent.com/104017860/234073460-241e1329-deb9-44fe-ab26-84a39d83e871.png">
 
 next you will get a notifaction, click on open.
+
 <img width="397" alt="Screenshot 2023-04-24 at 19 38 51" src="https://user-images.githubusercontent.com/104017860/234074173-96c8ae0c-d42a-4861-9240-0e339508e0f6.png">
 
 
 
 2. open up a terminal.
+<img width="834" alt="Screenshot 2023-04-24 at 19 40 30" src="https://user-images.githubusercontent.com/104017860/234074450-be2934b6-090f-47ec-8cc4-8003a48699d9.png">
+
 
 3. navigate to sql folder with this command: cd sql.
 
