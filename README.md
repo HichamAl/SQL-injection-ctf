@@ -32,6 +32,10 @@ next you will get a notifaction, click on open.
 4. start docker up (this can also take sometime, so be patient).
 <img width="127" alt="Screenshot 2023-04-24 at 19 42 56" src="https://user-images.githubusercontent.com/104017860/234075096-a26b3b67-ca12-46df-b0fd-581511ba7201.png">
 
-5. run this command: docker-compose build. The docker image is now built you need to restart docker, navigate to images and start the ctf from there or you can follow the next step.
+5. type this command in terminal and press enter: docker-compose build
 
-6. docker-compose up. and then navigate to: http://localhost:8000
+6. next type this command to run the challenge: docker-compose up 
+
+7. Now go to your browser of preference and type the following adress in: http://localhost:8000
+
+Good Luck with the Challenge!
