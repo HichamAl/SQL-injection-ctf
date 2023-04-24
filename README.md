@@ -9,7 +9,8 @@ To run the ctf you need to follow these steps:
 click on code then on HTTPS, and copy the address.
 <img width="462" alt="Screenshot 2023-04-24 at 19 28 42" src="https://user-images.githubusercontent.com/104017860/234072120-5f28983d-7b6d-4241-9f24-c072fd3137e8.png">
 
-then go to VSCODE, and paste the address in the bar that appears after you select clone this repository and click enter.
+then go to VSCODE, and paste the address in the bar that appears after you select clone this repository and click 
+on enter.
 <img width="740" alt="Screenshot 2023-04-24 at 19 31 15" src="https://user-images.githubusercontent.com/104017860/234072630-d09b690e-071e-41fb-a2f9-9205dcaf68e5.png">
 
 
