@@ -6,6 +6,32 @@
         <title>SECRET SERVER</title>
     </head>
     <body> 
+        <br>
+        <style>
+            /* Style the link as a button */
+            a.hacker-logout {
+                float: right;
+                margin-right: 50px;
+                background-color: #00ff00;
+    color: black;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+            }
+            /* On hover, change the background color */
+            a.hacker-logout:hover {
+                background-color: black;
+    color: #00ff00;
+            }
+        </style>
+        <a class= "hacker-logout" href="{% url 'logout' %}?next=/login/">Logout</a>
+
+        {% if user.is_authenticated %}
+    <p>Logged in as: {{ user.username }}</p>
+{% else %}
+    <p>You are not logged in.</p>
+{% endif %}
+
         <h1>SO YOU KNOW HOW TO USE SQL INJECTION, I SEE ... <br> WELL LET'S SEE HOW GOOD YOUR SQL QUERY SKILLS ARE.</h1>
         <br>
         <h2>USE THIS QUERY TO SHOW ALL THE TABLES IN THE DATABASE: SELECT name FROM sqlite_master WHERE type='table';</h2>
