@@ -37,5 +37,6 @@ next you will get a notifaction, click on open.
 6. next type this command to run the challenge: docker-compose up 
 
 7. Now go to your browser of preference and type the following adress in: http://localhost:8000
+(It may take sometime before the website shows up on the adress, try refreshing a few times if it doesn't show up)
 
 Good Luck with the Challenge!
