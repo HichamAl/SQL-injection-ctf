@@ -6,6 +6,10 @@ To run the ctf you need to follow these steps:
 1. clone this git repository. (you can use: VSCODE)
 <img width="545" alt="Screenshot 2023-04-24 at 19 27 04" src="https://user-images.githubusercontent.com/104017860/234071833-9a977189-7a73-4cfd-9f5b-221495156f38.png">
 
+click on code then on HTTPS, and copy the address.
+<img width="462" alt="Screenshot 2023-04-24 at 19 28 42" src="https://user-images.githubusercontent.com/104017860/234072120-5f28983d-7b6d-4241-9f24-c072fd3137e8.png">
+
+then go to VSCODE, and 
 
 
 2. open up a terminal.
