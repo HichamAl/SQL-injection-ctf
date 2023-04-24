@@ -13,13 +13,11 @@ Go to VSCODE paste the address in the bar that appears after you select clone th
 <img width="740" alt="Screenshot 2023-04-24 at 19 31 15" src="https://user-images.githubusercontent.com/104017860/234072630-d09b690e-071e-41fb-a2f9-9205dcaf68e5.png">
 
 next you need to select a location to clone the repository to, navigate to Desktop.
+click new folder, and give the new folder a name.
+then click select as repository destination.
 <img width="790" alt="Screenshot 2023-04-24 at 19 33 33" src="https://user-images.githubusercontent.com/104017860/234073460-241e1329-deb9-44fe-ab26-84a39d83e871.png">
 
-click new folder, and give the new folder a name.
-<img width="450" alt="Screenshot 2023-04-24 at 19 33 42" src="https://user-images.githubusercontent.com/104017860/234073544-195fb8b6-1da7-4887-b5ed-26da857db2f3.png">
 
-then click select as repository destination.
-<img width="256" alt="Screenshot 2023-04-24 at 19 33 54" src="https://user-images.githubusercontent.com/104017860/234073675-5de087bc-6177-454b-8cfc-cacf982f0ee3.png">
 
 2. open up a terminal.
 
