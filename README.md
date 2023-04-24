@@ -4,6 +4,8 @@ this is a sql injection ctf made in django.
 To run the ctf you need to follow these steps:
 
 1. clone this git repository. (you can use: VSCODE)
+<img width="1440" alt="Screenshot 2023-04-24 at 19 24 02" src="https://user-images.githubusercontent.com/104017860/234071259-065cc1b4-a489-4871-87ea-2e9de8c30ef4.png">
+
 
 2. open up a terminal.
 
