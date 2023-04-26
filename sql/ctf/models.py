@@ -7,12 +7,6 @@ class Flag(models.Model):
     flag = models.CharField(max_length=100)
     points = models.IntegerField()
 
-# Secret data
-class Hint(models.Model):
-    name = models.CharField(max_length=100)
-    flag = models.CharField(max_length=100)
-    points = models.IntegerField()
-
 # classified data
 class Classified(models.Model):
     name = models.CharField(max_length=100)
