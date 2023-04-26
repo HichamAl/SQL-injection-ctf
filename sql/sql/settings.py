@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_ez#&aeayb4l@m+846wj*(#y3bdib&6*-d+jci_r_zzzb!!_iq
 AUTHENTICATION_BACKENDS = [ 'ctf.backends.RawSQLBackend',    'django.contrib.auth.backends.ModelBackend',]
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
