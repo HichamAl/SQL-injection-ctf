@@ -1,5 +1,5 @@
-# SQL-INJECTION-CTF
-this is a sql injection ctf made in django. 
+# SQL-injection CTF
+Login using sql injection to acces the website. There you will be able to retrieve the key using your sql querying skills.
 
 To run the ctf you need to follow these steps:
 
